@@ -1,5 +1,5 @@
 {
   "name": "Kwanza Savings Planner",
-  "description": "Uma calculadora de poupança avançada projetada para o contexto angolano, permitindo projeções de longo prazo, análise de cenários e visualização de juros compostos em Kwanza (Kz).",
+  "description": "Calculadora de poupança avançada (Kz) compatível com deploy Netlify e persistência offline LocalStorage.",
   "requestFramePermissions": []
 }
